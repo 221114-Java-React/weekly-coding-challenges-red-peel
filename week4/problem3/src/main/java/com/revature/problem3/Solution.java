@@ -4,6 +4,7 @@ import java.util.*;
 
 public class Solution {
     public String wordCount(String sentence) {
-        throw new RuntimeException("TODO! Needs implementation...");
+        String[] words = sentence.split(" ");
+
     }
 }
